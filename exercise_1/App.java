@@ -68,7 +68,7 @@ public class App {
         // 2. Create a method named "weaponDescription" that will display the weapon
         // description.
 
-        // 3. Create three (3) objects from the "Weapon" class
+        // 3. Create three (3) objects from the "Weapon" class and give them attributes
 
         // Examples
 
