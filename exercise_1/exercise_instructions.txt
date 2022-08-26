@@ -1,4 +1,4 @@
-        Exercise 1
+PROGRAMMING EXERCISE 1
         1. Create a "Weapon" class.
 
         The Weapon class will have the following attributes.
@@ -20,10 +20,16 @@
         Object Name - "Mjollnir"
         Weight - 4.5
         Rarity - "Legendary"
-        Description - "A might hammer owned by the god of lightning thor!"
+        Description - "A mighty hammer owned by the god of lightning thor!"
 
         Object - Short Sword
         Object Name - "Common Sword"
         Weight - 2
         Rarity - "Common"
         Description - "A cheap sword used mostly by common enemies"
+        
+        Object - Axe
+        Object Name - "Lumberjack's Axe"
+        Weight - 4
+        Rarity - "Rare"
+        Description - "An axe owned by Jack the Lumberjack"
