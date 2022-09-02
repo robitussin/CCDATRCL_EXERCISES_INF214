@@ -3,6 +3,8 @@ PROGRAMMING EXERCISE 2
 Please use the link below as a guide/reference
 https://github.com/robitussin/CCDATRCL/blob/main/week_3/framework_implementation/App.java
 
+Download the App.java file into your java project
+
 1. Create your own music playlist using linkedlists
 
 2. Add 5 new songs to your Playlist using the add() method
